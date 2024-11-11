@@ -10,7 +10,7 @@ namespace DataStructure_Project_UAS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("777");
+            Console.WriteLine("000000");
         }
     }
 }
