@@ -11,6 +11,9 @@ namespace DataStructure_Project_UAS
         static void Main(string[] args)
         {
             Console.WriteLine("0000asdfsd0");
+
+            string message = "tes";
+            Console.WriteLine(message);
         }
 
         static void SayHi(string name)
