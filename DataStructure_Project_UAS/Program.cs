@@ -14,6 +14,8 @@ namespace DataStructure_Project_UAS
 
             string message = "tes";
             Console.WriteLine(message);
+
+            Console.WriteLine("perubahan 2");
         }
 
         static void SayHi(string name)
