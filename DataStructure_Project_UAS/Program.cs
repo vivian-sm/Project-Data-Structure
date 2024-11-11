@@ -10,8 +10,19 @@ namespace DataStructure_Project_UAS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("000000");
-            Console.WriteLine("111111");
+            Console.WriteLine("0000asdfsd0");
+
+            string message = "tes";
+            Console.WriteLine(message);
+
+            Console.WriteLine("perubahan 2");
+            Console.WriteLine("000000"); // VIVI
+            Console.WriteLine("111111"); // VIVI
+        }
+
+        static void SayHi(string name)
+        {
+            Console.WriteLine("Hi " + name);
         }
     }
 }
