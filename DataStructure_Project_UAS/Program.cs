@@ -11,6 +11,7 @@ namespace DataStructure_Project_UAS
         static void Main(string[] args)
         {
             Console.WriteLine("000000");
+            Console.WriteLine("111111");
         }
     }
 }
