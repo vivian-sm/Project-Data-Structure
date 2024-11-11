@@ -15,6 +15,7 @@ namespace DataStructure_Project_UAS
             string message = "tes";
             Console.WriteLine(message);
 
+            Console.WriteLine("perubahan 2");
             Console.WriteLine("000000"); // VIVI
             Console.WriteLine("111111"); // VIVI
         }
