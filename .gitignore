@@ -3,13 +3,5 @@ ECHO is on.
 # Visual Studio files
 
 .vs/
-.DataStructure_Project_UAS/bin/Debug/*.exe
-.DataStructure_Project_UAS/bin/Debug/*.pdb
-.DataStructure_Project_UAS/bin/Debug/*.obj
-.DataStructure_Project_UAS/bin/Debug/*.o
-.DataStructure_Project_UAS/bin/Debug/*.map
-.DataStructure_Project_UAS/bin/Debug/*.log
-.DataStructure_Project_UAS/obj/Debug/*.cache
-.DataStructure_Project_UAS/obj/Debug/*.exe
-.DataStructure_Project_UAS/obj/Debug/*.pdb
-.DataStructure_Project_UAS/obj/Debug/*.obj
+.DataStructure_Project_UAS/bin/
+.DataStructure_Project_UAS/obj/
